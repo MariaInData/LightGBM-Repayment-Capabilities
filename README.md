@@ -1,5 +1,5 @@
-# XGBoost-Repayment-Capabilities
-<img width="698" alt="image" src="https://user-images.githubusercontent.com/125685678/221344296-88626ec9-64ab-41ff-bd50-497d62e6ba02.png">  
+# XGBoost Repayment Capabilities
+<img width="704" alt="image" src="https://user-images.githubusercontent.com/125685678/221344416-4fd16b85-066b-4efb-b3bf-923b8b2b7851.png">  
 
 *Predicting repayment capabilities of loan applicants*
 # Business Problem
