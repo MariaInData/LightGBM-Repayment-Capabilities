@@ -1,7 +1,7 @@
 # XGBoost-Repayment-Capabilities
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/125685678/221344296-88626ec9-64ab-41ff-bd50-497d62e6ba02.png">  
-*Predicting repayment capabilities of loan applicants*
 
+*Predicting repayment capabilities of loan applicants*
 # Business Problem
 Many people struggle to get loans due to insufficient or non-existent credit histories. Often, untrustworthly lenders take advantage of this group of
 people. Home Credit strives to broaden financial inclusion for the unbanked population by providing a 
