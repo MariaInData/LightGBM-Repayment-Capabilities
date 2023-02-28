@@ -1,4 +1,4 @@
-# XGBoost Repayment Capabilities
+# LightGBM Repayment Capabilities
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/125685678/221344416-4fd16b85-066b-4efb-b3bf-923b8b2b7851.png">  
 
 *Predicting repayment capabilities of loan applicants*
