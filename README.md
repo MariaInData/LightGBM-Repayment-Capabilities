@@ -17,14 +17,18 @@ AUC is best when trying to minimize both false positives and false negatives.
 # Overview of the Process
 1. Exploratory Analysis
 -  Addressed the imbalanced data
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/125685678/226031123-bcdd26e2-1a73-4559-b017-11e34bacaa36.png">
 -  Feature analysis of the given 219 features
-<img width="1090" alt="image" src="https://user-images.githubusercontent.com/125685678/226028438-39dc41d5-1c4f-4fc3-8d4d-18e4c75317be.png">
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/125685678/226031458-715f7b0e-da62-439a-b050-89a488a75ca6.png">
 
 2. Feature Engineering
 -  Aggregating features to decrease number of rows
+<img width="1070" alt="image" src="https://user-images.githubusercontent.com/125685678/226032366-111b1093-ea73-4a8e-92f4-1e561d1b1168.png">
+
 -  Joined 7 datsets together
+<img width="1094" alt="image" src="https://user-images.githubusercontent.com/125685678/226031829-354864dd-8924-447a-8e5c-ce824039a7cc.png">
 -  Created time features and financial ratios
-<img width="1105" alt="image" src="https://user-images.githubusercontent.com/125685678/226027764-3eb855be-ccf0-4fad-817d-7144dd843dcf.png">
+<img width="1111" alt="image" src="https://user-images.githubusercontent.com/125685678/226032150-4aca2ed3-de94-47ab-93a6-c1259c13cc70.png">
 
 3. Model Building
 -  LightGBM was the best performing model
