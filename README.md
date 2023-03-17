@@ -18,6 +18,8 @@ AUC is best when trying to minimize both false positives and false negatives.
 1. Exploratory Analysis
 -  Addressed the imbalanced data
 -  Feature analysis of the given 219 features
+<img width="1090" alt="image" src="https://user-images.githubusercontent.com/125685678/226028438-39dc41d5-1c4f-4fc3-8d4d-18e4c75317be.png">
+
 2. Feature Engineering
 -  Aggregating features to decrease number of rows
 -  Joined 7 datsets together
