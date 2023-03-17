@@ -22,6 +22,8 @@ AUC is best when trying to minimize both false positives and false negatives.
 -  Aggregating features to decrease number of rows
 -  Joined 7 datsets together
 -  Created time features and financial ratios
+<img width="1105" alt="image" src="https://user-images.githubusercontent.com/125685678/226027764-3eb855be-ccf0-4fad-817d-7144dd843dcf.png">
+
 3. Model Building
 -  LightGBM was the best performing model
 -  Feature Selection
