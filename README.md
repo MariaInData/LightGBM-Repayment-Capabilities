@@ -15,13 +15,13 @@ Home Credit measured the success of this project using AUC Score.
 AUC is best when trying to minimize both false positives and false negatives. 
 
 # Overview of the Process
-1. Exploratory Analysis
+## 1. Exploratory Analysis
 -  Addressed the imbalanced data
 <img width="549" alt="image" src="https://user-images.githubusercontent.com/125685678/226031123-bcdd26e2-1a73-4559-b017-11e34bacaa36.png">
 -  Feature analysis of the given 219 features
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/125685678/226031458-715f7b0e-da62-439a-b050-89a488a75ca6.png">
 
-2. Feature Engineering
+## 2. Feature Engineering
 -  Aggregating features to decrease number of rows
 <img width="1070" alt="image" src="https://user-images.githubusercontent.com/125685678/226032366-111b1093-ea73-4a8e-92f4-1e561d1b1168.png">
 
@@ -30,10 +30,14 @@ AUC is best when trying to minimize both false positives and false negatives.
 -  Created time features and financial ratios
 <img width="1111" alt="image" src="https://user-images.githubusercontent.com/125685678/226032150-4aca2ed3-de94-47ab-93a6-c1259c13cc70.png">
 
-3. Model Building
+## 3. Model Building
 -  LightGBM was the best performing model
 -  Feature Selection
-4. Model Insights
+<img width="819" alt="image" src="https://user-images.githubusercontent.com/125685678/226033356-abf6123e-2717-4bd1-95ff-ea4ac2bd83f2.png">
+
+## 4. Model Insights
 - Best performing LightGBM model had an AUC score of 0.787 which allows Home Credit the confidence 
 to extend loans to people with insufficient credit histories.
+<img width="504" alt="image" src="https://user-images.githubusercontent.com/125685678/226034147-53a815c8-068e-4bb3-81b0-e3b7b80a003f.png">
+
 - To further improve the AUC score, more feature engineering would help. Of the top 15 features, 9 were features I created.
