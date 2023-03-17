@@ -17,9 +17,9 @@ AUC is best when trying to minimize both false positives and false negatives.
 # Overview of the Process
 ## 1. Exploratory Analysis
 -  Addressed the imbalanced data
-<img width="549" alt="image" src="https://user-images.githubusercontent.com/125685678/226031123-bcdd26e2-1a73-4559-b017-11e34bacaa36.png">
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/125685678/226031123-bcdd26e2-1a73-4559-b017-11e34bacaa36.png">  
 -  Feature analysis of the given 219 features
-<img width="399" alt="image" src="https://user-images.githubusercontent.com/125685678/226031458-715f7b0e-da62-439a-b050-89a488a75ca6.png">
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/125685678/226031458-715f7b0e-da62-439a-b050-89a488a75ca6.png">  
 
 ## 2. Feature Engineering
 -  Aggregating features to decrease number of rows
@@ -32,6 +32,8 @@ AUC is best when trying to minimize both false positives and false negatives.
 
 ## 3. Model Building
 -  LightGBM was the best performing model
+<img width="1095" alt="image" src="https://user-images.githubusercontent.com/125685678/226038926-2a5e9cda-9a46-48e2-af2d-5032a412b413.png">
+
 -  Feature Selection
 <img width="819" alt="image" src="https://user-images.githubusercontent.com/125685678/226033356-abf6123e-2717-4bd1-95ff-ea4ac2bd83f2.png">
 
